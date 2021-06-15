@@ -1,2 +1,2 @@
-# go-samples
-Sample codes in go
+# Samples
+Sample codes for different purposes.
