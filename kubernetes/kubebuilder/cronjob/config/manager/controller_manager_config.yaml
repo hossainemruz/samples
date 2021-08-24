@@ -9,3 +9,4 @@ webhook:
 leaderElection:
   leaderElect: true
   resourceName: 283c301c.example.com
+clusterName: kubebuilder-test

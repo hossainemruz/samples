@@ -13,7 +13,7 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/types"
 
-	cronjobv1 "kubebuilder.example.com/api/v1"
+	cronjobv1 "kubebuilder.example.com/apis/batch/v1"
 )
 
 var _ = Describe("CronJob controller", func() {
